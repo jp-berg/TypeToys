@@ -1,4 +1,4 @@
-package net.jp.berg;
+package net.jp.berg.eitheror;
 
 public sealed abstract class EitherOr<T1, T2> {
 
