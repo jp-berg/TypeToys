@@ -8,6 +8,7 @@ public sealed interface EitherOr<T1, T2> {
         public Either(T1 value){
             VALUE = value;
         }
+        @Override
         public T1 get(){
             return VALUE;
         }
