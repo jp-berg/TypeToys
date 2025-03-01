@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>net.jp.berg</groupId>
-  <artifactId>EitherOr</artifactId>
+  <artifactId>TypeToys</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
